@@ -4,4 +4,5 @@ public class dto {
     private String oshan;
     private int number;
     private String age;
+    private Double Tp;
 }

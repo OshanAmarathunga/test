@@ -7,4 +7,6 @@ public class dto {
     private Boolean active;
 
     Float cal;
+
+    private String bugFix;
 }

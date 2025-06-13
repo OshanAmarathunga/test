@@ -5,4 +5,6 @@ public class dto {
     private int number;
     private String age;
     private Boolean active;
+
+    Float cal;
 }
